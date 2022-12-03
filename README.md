@@ -1,16 +1,15 @@
-### Hi there 👋
+---
 
-<!--
-**solacol/solacol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://github.com/solacol/solacol">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=solacol&show_icons=true&theme=merko&include_all_commits=true&hide=contribs&count_private=true&line_height=32" alt="solacol's GitHub Stats" />
+</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://github.com/solacol/solacol">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solacol&show_icons=true&theme=merko&langs_count=5&layout=default&hide_border=false" />
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
