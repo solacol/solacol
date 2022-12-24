@@ -1,4 +1,8 @@
----
+# About
+Former (in)security enthusiast for over *n>1* decades, no hobbies, no friends, no social life, just true living in a morally degenerate digital world.
+
+# Some Bullsh_t Stats
+Nobody need them, but it was nice to play around :D
 
 <p align="center">
 <a href="https://github.com/solacol/solacol">
@@ -12,4 +16,3 @@
 </a>
 </p>
 
----
