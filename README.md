@@ -1,6 +1,15 @@
 # About
 Former (in)security enthusiast for over *n>1* decades, no hobbies, no friends, no social life, just true living in a morally degenerate digital world.
 
+Ok, not totally true ... CTFs are cool.
+
+# Want to know more?
+CTF (building) related stuff is most likley to be published at [localos](localos.io).
+
+Stuff which got lost all the time (even if bookmarked) can be found at [forsaken systems](forksaken.systems).
+
+All this not so great stuff, of course without any guarantee of completeness or regular (new) contents.
+
 # Some Bullsh_t Stats
 Nobody need them, but it was nice to play around :D
 
