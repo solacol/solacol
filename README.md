@@ -15,13 +15,14 @@ Nobody need them, but it was nice to play around :D
 
 <p align="center">
 <a href="https://github.com/solacol/solacol">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=solacol&show_icons=true&theme=merko&include_all_commits=true&hide=contribs&count_private=true&line_height=32" alt="solacol's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=solacol&show_icons=true&theme=dark&include_all_commits=true&hide=[]&count_private=true&hide_rank=true&line_height=32&custom_title=Bullsh_t%20Stats" alt="solacol's Bullshi_t Stats" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/solacol/solacol">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solacol&show_icons=true&theme=merko&langs_count=5&layout=default&hide_border=false" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solacol&show_icons=true&theme=dark&langs_count=5&layout=default&hide_border=false" />
 </a>
 </p>
+
 
