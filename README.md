@@ -8,7 +8,7 @@ CTF (building) related stuff is most likley to be published at [localos](localos
 
 Stuff which got lost all the time (even if bookmarked) and wannebe content can be found at [forsaken systems](forksaken.systems).
 
-All this not so great stuff, of course without any guarantee of completeness or regular (new) contents.
+All this (not so fancy) stuff, of course without any guarantee of completeness or regular (new) contents.
 
 # Some Bullsh_t Stats
 Nobody need them, but it was nice to play around :D
