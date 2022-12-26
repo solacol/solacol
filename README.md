@@ -6,7 +6,7 @@ Ok, not totally true ... CTFs are cool.
 # Want to know more?
 CTF (building) related stuff is most likley to be published at [localos](localos.io).
 
-Stuff which got lost all the time (even if bookmarked) can be found at [forsaken systems](forksaken.systems).
+Stuff which got lost all the time (even if bookmarked) and wannebe content can be found at [forsaken systems](forksaken.systems).
 
 All this not so great stuff, of course without any guarantee of completeness or regular (new) contents.
 
