@@ -15,7 +15,7 @@ Nobody need them, but it was nice to play around :D
 
 <p align="center">
 <a href="https://github.com/solacol/solacol">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=solacol&show_icons=true&theme=dark&include_all_commits=true&hide=[]&count_private=true&hide_rank=true&line_height=32&custom_title=Bullsh_t%20Stats" alt="solacol's Bullshi_t Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=solacol&show_icons=true&theme=dark&include_all_commits=true&hide=[]&count_private=true&hide_rank=false&line_height=32&custom_title=Bullsh_t%20Stats" alt="solacol's Bullshi_t Stats" />
 </a>
 </p>
 
