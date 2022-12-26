@@ -1,5 +1,5 @@
 # About
-Former (in)security enthusiast for over *n>1* decades, no hobbies, no friends, no social life, just true living in a morally degenerate digital world.
+Former (in)security enthusiast for over *n>1* decades; no hobbies, no friends, no social life, just true living in a morally degenerate digital world.
 
 Ok, not totally true ... CTFs are cool.
 
