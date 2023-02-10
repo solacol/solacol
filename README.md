@@ -4,9 +4,9 @@ Former (in)security enthusiast for over *n>1* decades; no hobbies, no friends, n
 Ok, not totally true ... CTFs are cool.
 
 # Want to know more?
-CTF (building) related activities are most likley to be published at [localos](localos.io).
+CTF (building) related activities are most likley to be published at [localos](http://localos.io).
 
-Stuff which got lost all the time (even if bookmarked) and wannebe content can be found at [forsaken systems](forksaken.systems).
+Stuff which got lost all the time (even if bookmarked) and wannebe content can be found at [forsaken systems](http://forsaken.systems).
 
 All this (not so fancy) stuff, of course without any guarantee of completeness or regular (new) contents.
 
