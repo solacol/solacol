@@ -21,7 +21,7 @@ Nobody need them, but it was nice to play around :D
 
 <p align="center">
 <a href="https://github.com/solacol/solacol">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solacol&show_icons=true&theme=dark&langs_count=5&layout=default&hide_border=false" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solacol&show_icons=true&theme=dark&langs_count=5&hide_border=false" />
 </a>
 </p>
 
